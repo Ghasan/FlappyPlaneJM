@@ -1,0 +1,29 @@
+Originally by Alucard (http://opengameart.org/content/platform-tiles-0):
+back.png
+back2.png
+d2.png
+d3.png
+d4.png
+d5.png
+ground.png
+u2.png
+u3.png
+u4.png
+u5.png
+
+Originally by by Kenney (http://opengameart.org/content/tappy-plane):
+level1.png
+level1s.png
+level2.png
+level2s.png
+planesGreen.png
+resume.png
+resumes.png
+stop.png
+stops.png
+textGameOver.png
+textGetReady.png
+
+//
+
+some modifications were made to the above-mentioned graphics.

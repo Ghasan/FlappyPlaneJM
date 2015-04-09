@@ -1,0 +1,6 @@
+#NETBEANS#
+build/
+dist/
+nbproject/private
+src/Resources/gamewin.mp3
+src/Resources/gameover.mp3
